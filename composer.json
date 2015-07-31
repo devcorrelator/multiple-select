@@ -1,0 +1,7 @@
+{
+    "name": "devcorrelator/multiple-select",
+    "description": "From: https://github.com/wenzhixin/multiple-select",
+    "keywords": ["jquery", "multiple", "select"],
+    "type": "component",
+    "homepage": "https://github.com/devcorrelator/multiple-select"
+}
